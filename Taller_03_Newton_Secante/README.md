@@ -7,4 +7,4 @@ Materia: Métodos Numéricos
 2. Método de la Secante (Algoritmo 2.4).
 3. Cálculo de la tasa de interés de un préstamo.
 
-Lenguaje de programación: Python.
+
